@@ -5,7 +5,7 @@ namespace Ejemplo.app.Clases
         gato=1,
         perro=2,
         pajaro=3,
-    
+        leon=4,
         
     }
 }
